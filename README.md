@@ -28,7 +28,7 @@ mvn clean package
 
 Feel free to submit pull requests for improvements, bug fixes, or new features. We appreciate any contribution that helps to enhance the project.
 
-##Deploy to Google Cloud Run:
+## Deploy to Google Cloud Run:
 
 [![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 
