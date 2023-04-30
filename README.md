@@ -1,4 +1,4 @@
-# Java YouTube Downloader & Audio Extractor
+# Java YouTube Audio Streamer
 
 This project is a Java-based version of a YouTube video downloader and audio extractor tool, converted from an original Go implementation. The application starts an HTTP server and utilizes `yt-dlp` and `ffmpeg` for video downloading and audio extraction.
 
